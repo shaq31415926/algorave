@@ -1,1 +1,1 @@
-# algorave
+# Algo Rave Hackathon
