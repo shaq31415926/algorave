@@ -1,1 +1,3 @@
-# Algo Rave Hackathon
+# AlgoRave Hackathon
+
+The dream: https://algorave.com/
